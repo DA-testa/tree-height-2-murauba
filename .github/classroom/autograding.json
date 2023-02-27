@@ -3,7 +3,7 @@
     {
       "name": "X",
       "setup": "",
-      "run": "Python3 tree_height.py",
+      "run": "python3 tree_height.py",
       "input": "5\r\n4 -1 4 1 1",
       "output": "3",
       "comparison": "included",
