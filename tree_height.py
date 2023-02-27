@@ -1,8 +1,7 @@
 # python3
-from future import absolute_import
 import sys
 import threading
-import autograd.numpy as np
+import numpy as np
 
 
 def compute_height(n, parents):
