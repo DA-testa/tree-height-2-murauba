@@ -1,7 +1,17 @@
 {
   "tests": [
     {
-      "name": "X",
+      "name": "Pip",
+      "setup": "",
+      "run": "pip install numpy",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 0
+    },
+    {
+      "name": "Y",
       "setup": "",
       "run": "python3 tree_height.py",
       "input": "5\r\n4 -1 4 1 1",
