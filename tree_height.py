@@ -1,5 +1,5 @@
 # python3
-
+from future import absolute_import
 import sys
 import threading
 import autograd.numpy as np
